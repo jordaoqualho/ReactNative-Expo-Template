@@ -1,1 +1,1 @@
-# Template
+# InstallApp
