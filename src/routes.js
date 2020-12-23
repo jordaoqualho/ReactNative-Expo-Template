@@ -18,8 +18,8 @@ function Routes() {
             title: "",
             headerStyle: {
               backgroundColor: "#E2E2E2",
-              elevation: 0
-            },                             
+              elevation: 0,
+            },
           }}
         />
         <Stack.Screen
@@ -29,14 +29,14 @@ function Routes() {
             title: "",
             headerStyle: {
               backgroundColor: "#E2E2E2",
-              elevation: 0
+              elevation: 0,
             },
             headerTintColor: "#FB3640",
             headerTitleStyle: {
               fontWeight: "bold",
             },
           }}
-        />        
+        />
       </Stack.Navigator>
     </NavigationContainer>
   );
